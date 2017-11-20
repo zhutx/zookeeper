@@ -6,16 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="testcurator" />
         <module name="testzkclient" />
-        <module name="TestZookeeper" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="testcurator" target="1.5" />
       <module name="testzkclient" target="1.5" />
-      <module name="TestZookeeper" target="1.5" />
-      <module name="zookeeper-parent" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
