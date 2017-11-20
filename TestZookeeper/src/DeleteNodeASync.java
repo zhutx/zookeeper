@@ -23,8 +23,7 @@ public class DeleteNodeASync implements Watcher{
 	public static void main(String[] args) throws IOException, InterruptedException, KeeperException {
 		zooKeeper = new ZooKeeper("192.168.1.105:2181",5000,new DeleteNodeASync());
 		System.out.println(zooKeeper.getState().toString());
-		
-		
+
 		Thread.sleep(Integer.MAX_VALUE);
 		
 

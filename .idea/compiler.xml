@@ -12,10 +12,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="testcurator" target="1.5" />
-      <module name="testzkclient" target="1.5" />
-      <module name="TestZookeeper" target="1.5" />
-      <module name="zookeeper-parent" target="1.5" />
+      <module name="testcurator" target="1.7" />
+      <module name="testzkclient" target="1.7" />
+      <module name="TestZookeeper" target="1.7" />
+      <module name="zookeeper-parent" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
