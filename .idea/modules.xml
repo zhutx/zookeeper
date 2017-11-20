@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestZookeeper/TestZookeeper.iml" filepath="$PROJECT_DIR$/TestZookeeper/TestZookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testcurator/testcurator.iml" filepath="$PROJECT_DIR$/testcurator/testcurator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testzkclient/testzkclient.iml" filepath="$PROJECT_DIR$/testzkclient/testzkclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper-parent.iml" filepath="$PROJECT_DIR$/zookeeper-parent.iml" />
+    </modules>
+  </component>
+</project>

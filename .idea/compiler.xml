@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="testcurator" />
+        <module name="testzkclient" />
+        <module name="TestZookeeper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="testcurator" target="1.7" />
+      <module name="testzkclient" target="1.7" />
+      <module name="TestZookeeper" target="1.7" />
+      <module name="zookeeper-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
