@@ -22,5 +22,6 @@
     <orderEntry type="library" name="Maven: org.apache.curator:curator-client:2.8.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:16.0.1" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.6" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-all:5.0.0.Alpha2" level="project" />
   </component>
 </module>
