@@ -6,7 +6,7 @@ public class TestIdMaker {
 
 	public static void main(String[] args) throws Exception {
 		
-		IdMaker idMaker = new IdMaker("192.168.1.105:2181",
+		IdMaker idMaker = new IdMaker("39.104.49.97:2181",
 				"/NameService/IdGen", "ID");
 		idMaker.start();
 
